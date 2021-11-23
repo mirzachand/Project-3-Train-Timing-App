@@ -1,0 +1,7 @@
+Project 3 Django
+Create Train timing app that shows different trains and their departure times (take 10 trains max)
+ 
+Ex: Train Name: Shatabdi Exp
+      Date: 15/11/2021
+      Departure time: 11:00 Hours
+      Duration: 3 hours
